@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## NextAuth-v5 implementation with Microsoft Entra
+for reference: https://authjs.dev/getting-started/providers/microsoft-entra-id  &&  https://authjs.dev/getting-started/migrating-to-v5
+
 ## Getting Started
 
 First, run the development server:
